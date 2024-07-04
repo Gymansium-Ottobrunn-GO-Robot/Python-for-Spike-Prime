@@ -1,0 +1,4 @@
+def forward():
+    motors.run_for_rotations(3)
+
+# im assuming that all motors are setup
